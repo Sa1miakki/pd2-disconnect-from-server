@@ -1,0 +1,19 @@
+{
+    "name" : "Disconnect from server",
+    "description" : "Disconnect from server manually.",
+    "author" : "Sa1miakki",
+    "version" : "1",
+    "blt_version" : 2,
+    "updates" : [
+        {
+            "revision" : 14,
+            "identifier" : "InstaCustody"
+        }
+    ],
+    "hooks" : [
+        {
+            "hook_id" : "lib/managers/menumanager",
+            "script_path" : "mod.lua"
+        }
+    ]
+}
