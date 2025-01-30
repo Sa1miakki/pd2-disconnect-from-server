@@ -5,11 +5,13 @@
     "version" : "1",
     "blt_version" : 2,
     "updates" : [
-        {
-            "revision" : 14,
-            "identifier" : "InstaCustody"
-        }
-    ],
+		{
+			"identifier" : "pd2_dfserver",
+			"host" : {
+				"meta" : "https://raw.githubusercontent.com/Sa1miakki/pd2-disconnect-from-server/refs/heads/main/meta.json"
+			}
+		}
+	],
     "hooks" : [
         {
             "hook_id" : "lib/managers/menumanager",
