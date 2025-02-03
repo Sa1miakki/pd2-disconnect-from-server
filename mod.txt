@@ -2,7 +2,7 @@
     "name" : "Disconnect from server",
     "description" : "Disconnect from server manually.",
     "author" : "Sa1miakki",
-    "version" : "1",
+    "version" : "1.1",
     "blt_version" : 2,
     "updates" : [
 		{
